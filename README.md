@@ -39,3 +39,23 @@ This task involves creating a simple terminal-based chatbot that responds to use
 
 ---
 
+## ✅ Task 2 – Tic-Tac-Toe AI Game
+
+A web-based Tic-Tac-Toe game featuring an unbeatable AI opponent built with the Minimax algorithm.
+
+### 🔹 Features
+- 🤖 Smart AI (Minimax algorithm)  
+- ✅ Win/Draw detection  
+- 🔁 Game restart functionality  
+- 🎯 Responsive and mobile-friendly UI  
+- ♿ Basic accessibility support  
+
+### 🛠️ Tools & Technologies
+- HTML  
+- CSS  
+- JavaScript  
+
+🔗 [View Project Folder](https://github.com/SumanSekhar-Sahoo/CODSOFT/tree/main/tic-tac-toe-ai)
+
+---
+
