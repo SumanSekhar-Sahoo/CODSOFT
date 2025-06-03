@@ -59,3 +59,42 @@ A web-based Tic-Tac-Toe game featuring an unbeatable AI opponent built with the 
 
 ---
 
+
+## ✅ Task 3 – Image Captioning AI
+
+📸 This project generates human-like captions from images using **CNN + RNN** architecture.
+
+### 🔹 Description
+An Image Captioning AI built using **VGG16** for feature extraction and **LSTM** for caption generation. This version includes a mock output for demonstration purposes.
+
+### 🧠 Technologies Used
+- Python
+- TensorFlow & Keras
+- VGG16 (Pre-trained)
+- LSTM
+- NumPy, Pillow (PIL)
+
+### 🧪 Output Example
+**Input Image:**  
+![Elephant Feeding](./Image_Captioning/your_image.jpg)
+
+**Generated Caption:** 
+A group of baby elephants being bottle-fed by caretakers.
+
+
+
+### 🛠️ How to Run
+
+pip install tensorflow keras numpy pillow
+python image_captioning.py
+
+
+🔗 **[View Project Folder](./Image_Captioning)**
+🔗 **[View LinkedIn Post](https://www.linkedin.com/posts/sumansekhar-sahoo_codesoft-machinelearning-deeplearning-activity-7335682994508124161-QnqY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFbWbFkBBD_ckmIB0-Z1ZAk25yadMwBisI0)**
+
+---
+
+## 📬 Connect With Me
+
+👤 **Suman Sekhar Sahoo**
+🔗 [LinkedIn](https://www.linkedin.com/in/sumansekhar-sahoo)
